@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "id": "master-catalog",
+      "name": "Master Catalog"
+    },
+    {
+      "id": "site-catalog",
+      "name": "Site Catalog"
+    }
+  ]
+}
