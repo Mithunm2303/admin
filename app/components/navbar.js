@@ -8,7 +8,7 @@ export default function Navbar() {
     <nav>
       <Image src={Logo} alt="helpdesk logo" width={70} color="#7856ff" />
       <h1>Shop</h1>
-      <Link href="/">About-us</Link>
+      <Link href="/">Home</Link>
       <Link href="/catalogs">Catalogs</Link>
     </nav>
   );

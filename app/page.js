@@ -4,7 +4,7 @@ import React from "react";
 export default function page() {
   return (
     <main>
-      <h2>About us</h2>
+      <h2>Home</h2>
       <p>
         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit
         modi incidunt ut exercitationem sapiente, repellat ducimus ex minus
